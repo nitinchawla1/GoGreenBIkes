@@ -1,0 +1,15 @@
+1) Imported the dataset and did usual exploratory data analysis steps like checking the structure & characteristics of the dataset
+2) Tried establishing a relation between the dependent and independent variable (Dependent “Count” & Independent: Workingday, Weather, Season etc)
+3) Selected an appropriate test to check whether:
+Working Day has effect on number of electric cycles rented
+No. of cycles rented similar or different in different seasons
+No. of cycles rented similar or different in different weather
+Weather is dependent on season (check between 2 predictor variable)
+Set up Null Hypothesis (H0)
+State the alternate hypothesis (H1)
+4) Checked assumptions of the test (Normality, Equal Variance).
+5) Continue doing the analysis even though some assumptions were failing (levene’s test or Shapiro-wilk test) but double check using visual analysis and report wherever necessary
+Set a significance level (alpha)
+6) Calculated test Statistics.
+7) Decision to accept or reject null hypothesis.
+8) Inference from the analysis
